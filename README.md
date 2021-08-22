@@ -6,6 +6,6 @@ Written By Golang.
 
 - [x] Basic
 - [x] PoW
-- [ ] Persistence
+- [x] Persistence
 - [ ] Transaction
 - [ ] Safety
