@@ -63,7 +63,7 @@ func NewBlockChain() *Blockchain {
 	return &Blockchain{[]*Block{NewGenesisBlock()}}
 }
 
-// Proof of work
+// Proof of Work
 const targetBits = 24
 
 type ProofOfWork struct {
